@@ -1,0 +1,5 @@
+Para ejecutar el archivo telefonia se necesita que en la misma carpeta que se ubique dicho archivo se encuentre tambien la
+carpeta lib.
+La carpeta TfnDB contiene una version de la base de datos, si esta carpeta no se ubica en la misma carpeta no pasa nada
+ya que la aplicacion la creara, si se desea utilizar la base de datos existente actualmente tambien hay que copiar
+esta carpeta
